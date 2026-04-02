@@ -93,5 +93,3 @@ In this module, you'll learn how to:
 [[6.5 Exercise - Work with data in a Microsoft Fabric eventhouse]]  
 [[1.6 Module assessment]]  
 [[1.7 Summary]]  
-
----
